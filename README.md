@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Richbusiness-minds
 - 👀 I’m interested in ... Web development and mobile application
-- 🌱 I’m currently learning ...Html, css, javascript
+- 🌱 I’m currently learning ...React, Node.js and next.js
 - 💞️ I’m looking to collaborate on ...wbb dev project
 - 📫reach me on...richlordboakye@gmail.com 
 - 😄 Pronouns: ...studios 
